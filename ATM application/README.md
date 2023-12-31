@@ -3,4 +3,5 @@ It does really work as an actual ATM but only seeks to handle some ATM functiona
 Dreaming is free.
 
 I am a billionaire in my own dreams:
+<br>
 ![The Billionaires deposit](../images/ATM-application-c++.png)
